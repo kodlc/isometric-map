@@ -3,7 +3,7 @@
 KNOWN ISSUES:
 	- the tile height on isometric projection can only be adjusted on the top view map because that's very intuitive
 	- and mainly because I haven't figured it out yet
-	- you'll get error when trying to adjust height of the edge tiles 
+	- you'll get error when trying to adjust height of the map edges
 	- also some other unimportant stuff
 
 TODO: 
